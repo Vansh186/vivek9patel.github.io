@@ -28,8 +28,8 @@ const apps = [
         screen: displayTerminalCalc,
     },
     {
-        id: "about-vivek",
-        title: "About Vivek",
+        id: "about-vansh",
+        title: "About Vansh",
         icon: './themes/Yaru/system/user-home.png',
         disabled: false,
         favourite: true,
@@ -42,7 +42,7 @@ const apps = [
         icon: './themes/Yaru/apps/vscode.png',
         disabled: false,
         favourite: true,
-        desktop_shortcut: false,
+        desktop_shortcut: true,
         screen: displayVsCode,
     },
     {
@@ -51,7 +51,7 @@ const apps = [
         icon: './themes/Yaru/apps/bash.png',
         disabled: false,
         favourite: true,
-        desktop_shortcut: false,
+        desktop_shortcut: true,
         screen: displayTerminal,
     },
     {
@@ -60,7 +60,7 @@ const apps = [
         icon: './themes/Yaru/apps/spotify.png',
         disabled: false,
         favourite: true,
-        desktop_shortcut: false,
+        desktop_shortcut: true,
         screen: displaySpotify, // India Top 50 Playlist 😅
     },
     {
@@ -69,7 +69,7 @@ const apps = [
         icon: './themes/Yaru/apps/gnome-control-center.png',
         disabled: false,
         favourite: true,
-        desktop_shortcut: false,
+        desktop_shortcut: true,
         screen: displaySettings,
     },
     {
@@ -86,7 +86,7 @@ const apps = [
         title: "Contact Me",
         icon: './themes/Yaru/apps/gedit.png',
         disabled: false,
-        favourite: false,
+        favourite: true,
         desktop_shortcut: true,
         screen: displayGedit,
     },
