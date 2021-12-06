@@ -141,15 +141,15 @@ function Education() {
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
                         
                     </div>
-                    <div className=" text-sm text-gray-400 mt-0.5">2018 - 2022</div>
+                    <div className=" text-sm text-gray-400 mt-0.5">2018 - present</div>
                     <div className=" text-sm md:text-base">Computer Science & Deep Learning Engineering</div>
                     <div className="text-sm text-gray-300 font-bold mt-1">CGPA &nbsp; 9.26/10</div>
                 </li>
                 <li className="list-disc mt-5">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
-                        Class 12<sup>th</sup> (GSEB)
+                        Class 10<sup>th</sup> (GSEB)
                     </div>
-                    <div className=" text-sm text-gray-400 mt-0.5">2016 - 2018</div>
+                    <div className=" text-sm text-gray-400 mt-0.5">present</div>
                     <div className=" text-sm md:text-base">Maths, Physics, Chemistry & Computer Science</div>
                     <div className="text-sm text-gray-300 font-bold mt-1">Percentile Rank &nbsp; 94.1%</div>
                 </li>
