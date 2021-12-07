@@ -10,7 +10,7 @@ export default function Meta() {
             <meta name="title" content="Vansh Dhillon" />
             <meta name="description"
                 content="Vansh ~ Die with Memories, Dreams" />
-            <meta name="author" content="Vivek Patel (vivek9patel)" />
+            <meta name="author" content="Vansh Dhillon" />
             <meta name="keywords"
                 content="Vansh, Vansh's portfolio, vansh linux, ubuntu portfolio, vansh dhillon protfolio" />
             <meta name="robots" content="index, follow" />
@@ -22,15 +22,15 @@ export default function Meta() {
             /* Search Engine */
             <meta name="image" content="images/logos/fevicon.png" />
             /* Schema.org for Google */
-            <meta itemProp="name" content="Vansh Dhillon - Artificial Intelligence" />
+            <meta itemProp="name" content="Vansh Dhillon" />
             <meta itemProp="description"
-                content="Van._.sh07 Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+                content="Vansh ~ Die with Memories, Dreams." />
             <meta itemProp="image" content="images/logos/fevicon.png" />
             /* Twitter */
             <meta name="twitter:card" content="summary" />
             <meta name="twitter:title" content="Vansh Dhillon - Machine Learning" />
             <meta name="twitter:description"
-                content="Vansh's Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+                content="Vansh ~ Die with Memories, Dreams." />
             <meta name="twitter:site" content="van._.sh07" />
             <meta name="twitter:creator" content="van._.sh07" />
             <meta name="twitter:image:src" content="images/logos/logo_1024.png" />
