@@ -28,7 +28,7 @@ export default function Meta() {
             <meta itemProp="image" content="images/logos/fevicon.png" />
             /* Twitter */
             <meta name="twitter:card" content="summary" />
-            <meta name="twitter:title" content="Vansh Dhillon - Machine Learning" />
+            <meta name="twitter:title" content="V@nsh Dhillon" />
             <meta name="twitter:description"
                 content="Vansh ~ Die with Memories, Dreams." />
             <meta name="twitter:site" content="van._.sh07" />
