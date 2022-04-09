@@ -147,7 +147,7 @@ function Education() {
                 </li>
                 <li className="list-disc mt-5">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
-                        Class 10<sup>th</sup> (GSEB)
+                        Class 10<sup>th</sup> (CBSE)
                     </div>
                     <div className=" text-sm text-gray-400 mt-0.5">present</div>
                     <div className=" text-sm md:text-base">Maths, Physics, Chemistry & Computer Science</div>
