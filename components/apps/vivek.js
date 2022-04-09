@@ -219,9 +219,9 @@ function Skills() {
 function Projects() {
     const project_list = [
         {
-            name: "VD Inc. Owner",
+            name: "Radon Development (Founder)",
             date: "December 2021",
-            link: "https://vdinc.ml",
+            link: "https://radondev.ml",
             description: [
                 "A Cyber Security and Programming Team for the betterment!",
             ],
